@@ -9,7 +9,8 @@ I'm Lola, an aspiring junior developer passionate about coding and eager to lear
 - 📚 I believe in the continuous pursuit of knowledge and improvement.
 ---
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript , React, Tailwind / MUI
+- **Framework:** React JS
 - **Currently Learning:** Java
 ---
 
