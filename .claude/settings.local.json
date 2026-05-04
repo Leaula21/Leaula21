@@ -6,7 +6,10 @@
       "Bash(Write-Output \"done\")",
       "PowerShell(New-Item *)",
       "Bash(gh api *)",
-      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\lolam\\\\Documents\\\\Projets\\\\Leaula21\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object -ExpandProperty FullName)"
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\lolam\\\\Documents\\\\Projets\\\\Leaula21\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object -ExpandProperty FullName)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:giphy.com)"
     ]
   }
 }
