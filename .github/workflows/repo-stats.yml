@@ -27,7 +27,10 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/<!--PRIVATE_REPOS-->[0-9]*<!--\/PRIVATE_REPOS-->/<!--PRIVATE_REPOS-->${{ steps.count.outputs.private }}<!--\/PRIVATE_REPOS-->/" README.md
+          PRIVATE="${{ steps.count.outputs.private }}"
+          if [ "$PRIVATE" != "null" ] && [ -n "$PRIVATE" ]; then
+            sed -i "s/<!--PRIVATE_REPOS-->[0-9]*<!--\/PRIVATE_REPOS-->/<!--PRIVATE_REPOS-->$PRIVATE<!--\/PRIVATE_REPOS-->/" README.md
+          fi
 
       - name: Commit if changed
         run: |
