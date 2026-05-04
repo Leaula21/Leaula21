@@ -62,15 +62,6 @@ des apps web aux scripts qui simplifient la vie.
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Leaula21&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leaula21&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"/>
-
-</div>
 
 <br/>
 
