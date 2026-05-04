@@ -58,11 +58,10 @@ des apps web aux scripts qui simplifient la vie.
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Leaula21&theme=radical&hide_border=true&background=0d1117&ring=00ff88&fire=f59e0b&currStreakLabel=00ff88&sideLabels=8b5cf6&stroke=8b5cf6)
+![Repos publics](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Leaula21&query=$.public_repos&label=Repos%20publics&color=00ff88&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Repos privés](https://img.shields.io/badge/Repos%20privés-<!--PRIVATE_REPOS-->0<!--/PRIVATE_REPOS-->-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
-
-> Les stats incluent les repos **publics ET privés** (`count_private=true`).
 
 ---
 
@@ -95,14 +94,14 @@ des apps web aux scripts qui simplifient la vie.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Leaula21">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Leaula21" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub" width="60" style="padding:5px"/>
   </a>
-  <a href="https://www.linkedin.com/in/lola-mounier">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+  <a href="https://www.linkedin.com/in/lola-mounier" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" width="60" style="padding:5px"/>
   </a>
   <a href="mailto:lola.mounier.fsp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="Gmail" width="60" style="padding:5px"/>
   </a>
 </p>
 
