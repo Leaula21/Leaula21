@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/ea74cjF0jieXu/giphy.gif" width="220"/>
 
 ```
 ╔═══════════════════════════════════════════════╗
