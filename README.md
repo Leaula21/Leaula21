@@ -59,7 +59,7 @@ des apps web aux scripts qui simplifient la vie.
 <div align="center">
 
 ![Repos publics](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Leaula21&query=$.public_repos&label=Repos%20publics&color=00ff88&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Repos privés](https://img.shields.io/badge/Repos%20privés-<!--PRIVATE_REPOS-->0<!--/PRIVATE_REPOS-->-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Repos privés](https://img.shields.io/badge/Repos%20privés-<!--PRIVATE_REPOS-->null<!--/PRIVATE_REPOS-->-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
 
