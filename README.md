@@ -22,7 +22,7 @@
 
 <br/>
 
----
+
 <!-- 
 ### `> whoami`
 
@@ -46,7 +46,7 @@ des apps web aux scripts qui simplifient la vie.
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Leaula21&query=$.public_repos&label=Repos%20publics&color=00ff88&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Repos%20priv%C3%A9s-<!--PRIVATE_REPOS-->10<!--/PRIVATE_REPOS-->-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Repos%20priv%C3%A9s10a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
