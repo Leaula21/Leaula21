@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA.EXE&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=▶%20Software%20Developer%20·%20Marseille%20◀&descAlignY=57&descAlign=50&descSize=14&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=▶%20Software%20Developer%20·%20Marseille%20◀&descAlignY=57&descAlign=50&descSize=14&descColor=a78bfa" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%3E+I%27M+LOLA+%F0%9F%91%BE;%3E+BUILDING+COOL+STUFF...;%3E+BASED+IN+MARSEILLE+%F0%9F%8C%8A;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Leaula21&style=for-the-badge&color=00ff88&labelColor=0d1117&label=VISITORS"/>
@@ -17,9 +23,7 @@
 <br/>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/ea74cjF0jieXu/giphy.gif" width="220"/>
-
+<!-- 
 ### `> whoami`
 
 Développeuse passionnée par le **code propre**,
@@ -30,7 +34,7 @@ J'aime transformer des idées en projets concrets —
 des apps web aux scripts qui simplifient la vie.
 
 > *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
+> *Good programmers write code that humans can understand."* -->
 
 <br clear="right"/>
 
