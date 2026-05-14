@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=%20Software%20Developer%20·%20Marseille%20&descAlignY=57&descAlign=50&descSize=14&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=%20Software%20Developer%20·%20Marseille%20&descAlignY=57&descAlign=50&descSize=14&descColor=00ff88" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%F0%9F%8C%8A;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
 </div>
 
 <br/>
@@ -71,7 +71,7 @@ des apps web aux scripts qui simplifient la vie.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=a78bfa)
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -79,23 +79,18 @@ des apps web aux scripts qui simplifient la vie.
 
 **Frameworks & Tools**
 
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff88)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff88)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=f59e0b)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=a78bfa)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
 ## 🚀 Let's Connect!
-
-<p align="center">
-  Tu as un projet, une idée, ou juste envie de discuter tech ?<br/>
-  Je suis toujours partante pour échanger !
-</p>
 
 <p align="center">
   <a href="https://github.com/Leaula21" target="_blank">
