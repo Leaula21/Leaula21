@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%3E+I%27M+LOLA+%F0%9F%91%BE;%3E+BUILDING+COOL+STUFF...;%3E+BASED+IN+MARSEILLE+%F0%9F%8C%8A;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Leaula21&style=for-the-badge&color=00ff88&labelColor=0d1117&label=VISITORS"/>
   &nbsp;
   <a href="https://github.com/Leaula21?tab=followers">
@@ -25,16 +19,6 @@
 ---
 
 <img align="right" src="https://media.giphy.com/media/ea74cjF0jieXu/giphy.gif" width="220"/>
-
-```
-╔═══════════════════════════════════════════════╗
-║  PLAYER    :  Lola Mounier                    ║
-║  CLASS     :  Software Developer              ║
-║  LOCATION  :  Marseille, France  🌊           ║
-║  XP        :  Always leveling up  ⚔️          ║
-║  STATUS    :  Open to new quests  ✅           ║
-╚═══════════════════════════════════════════════╝
-```
 
 ### `> whoami`
 
