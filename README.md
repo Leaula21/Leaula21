@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=▶%20Software%20Developer%20·%20Marseille%20◀&descAlignY=57&descAlign=50&descSize=14&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=LOLA&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=%20Software%20Developer%20·%20Marseille%20&descAlignY=57&descAlign=50&descSize=14&descColor=a78bfa" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%3E+I%27M+LOLA+%F0%9F%91%BE;%3E+BUILDING+COOL+STUFF...;%3E+BASED+IN+MARSEILLE+%F0%9F%8C%8A;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00FF88&center=true&vCenter=true&width=640&height=55&lines=%3E+HELLO+WORLD!;%F0%9F%8C%8A;%3E+LET%27S+CREATE+SOMETHING+%E2%9C%A8" />
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ des apps web aux scripts qui simplifient la vie.
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="LinkedIn" width="60"/>
   </a>
   &nbsp;
-  <a href="mailto:lola.mounier.fsp@gmail.com">
+  <a href="mailto:lola.mounier.lm@gmail.com">
     <img src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="Gmail" width="60"/>
   </a>
 </p>
@@ -114,5 +114,5 @@ des apps web aux scripts qui simplifient la vie.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=GAME+OVER%3F+NEVER.&fontSize=22&fontColor=00ff88&fontAlignY=68&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=.333.&fontSize=22&fontColor=00ff88&fontAlignY=68&animation=twinkling"/>
 </div>
