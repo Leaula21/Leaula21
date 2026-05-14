@@ -29,7 +29,7 @@ jobs:
         run: |
           PRIVATE="${{ steps.count.outputs.private }}"
           if [ "$PRIVATE" != "null" ] && [ -n "$PRIVATE" ]; then
-            sed -i "s|img.shields.io/badge/[0-9]*-a78bfa|img.shields.io/badge/$PRIVATE-a78bfa|" README.md
+            sed -i "s|img.shields.io/badge/Repos%20priv%C3%A9s-[0-9]*-a78bfa|img.shields.io/badge/Repos%20priv%C3%A9s-$PRIVATE-a78bfa|" README.md
           fi
 
       - name: Commit if changed
